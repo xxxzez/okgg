@@ -1,0 +1,7 @@
+<!-- filepath: public/logo.svg -->
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="36" height="36" rx="10" fill="#2563EB"/>
+  <circle cx="18" cy="18" r="15" fill="white" opacity="0.9"/>
+  <text x="50%" y="54%" text-anchor="middle" fill="#2563EB" font-size="13" font-family="Segoe UI, Arial, sans-serif" font-weight="bold" dy=".3em">OK</text>
+  <text x="50%" y="78%" text-anchor="middle" fill="#2563EB" font-size="7" font-family="Segoe UI, Arial, sans-serif" font-weight="bold" dy=".3em">GG</text>
+</svg>
